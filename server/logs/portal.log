@@ -1,0 +1,62 @@
+2018-06-16 00:29:26+0000 [-] Log opened.
+2018-06-16 00:29:26+0000 [-] twistd 16.0.0 (/home/ubuntu/muddev/pyenv/bin/python 2.7.12) starting up.
+2018-06-16 00:29:26+0000 [-] reactor class: twisted.internet.epollreactor.EPollReactor.
+2018-06-16 00:29:26+0000 [-] ServerFactory starting on 4000
+2018-06-16 00:29:26+0000 [-] ServerFactory (WebSocketFactory) starting on 4005
+2018-06-16 00:29:26+0000 [-] Website starting on 4001
+2018-06-16 00:29:29+0000 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 34996) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-06-16 02:51:10+0000 [-] Received SIGINT, shutting down.
+2018-06-16 02:51:10+0000 [-] (TCP Port 4001 Closed)
+2018-06-16 02:51:10+0000 [-] (TCP Port 4005 Closed)
+2018-06-16 02:51:10+0000 [-] (TCP Port 4000 Closed)
+2018-06-16 02:51:10+0000 [-] Main loop terminated.
+2018-06-16 02:51:10+0000 [-] Server Shut Down.
+2018-06-16 02:51:44+0000 [-] Log opened.
+2018-06-16 02:51:44+0000 [-] twistd 16.0.0 (/home/ubuntu/muddev/pyenv/bin/python 2.7.12) starting up.
+2018-06-16 02:51:44+0000 [-] reactor class: twisted.internet.epollreactor.EPollReactor.
+2018-06-16 02:51:44+0000 [-] ServerFactory starting on 4000
+2018-06-16 02:51:44+0000 [-] ServerFactory (WebSocketFactory) starting on 4005
+2018-06-16 02:51:44+0000 [-] Website starting on 4001
+2018-06-16 02:51:46+0000 [Uninitialized] AMPProtocol connection established (HOST:IPv4Address(TCP, '127.0.0.1', 35108) PEER:IPv4Address(TCP, '127.0.0.1', 4006))
+2018-06-17 05:18:40+0000 [-] Timing out client: IPv4Address(TCP, '68.70.140.213', 56421)
+2018-06-17 05:23:05+0000 [-] Timing out client: IPv4Address(TCP, '68.70.140.213', 57496)
+2018-06-17 07:51:52+0000 [-] Timing out client: IPv4Address(TCP, '206.173.106.22', 13671)
+2018-06-17 07:54:52+0000 [-] Timing out client: IPv4Address(TCP, '50.201.95.250', 8713)
+2018-06-17 07:57:52+0000 [-] Timing out client: IPv4Address(TCP, '50.201.95.250', 15027)
+2018-06-17 08:00:52+0000 [-] Timing out client: IPv4Address(TCP, '50.201.95.250', 60300)
+2018-06-17 11:30:39+0000 [-] Timing out client: IPv4Address(TCP, '67.133.97.101', 45898)
+2018-06-17 12:49:29+0000 [-] Timing out client: IPv4Address(TCP, '70.24.61.123', 65302)
+2018-06-17 14:04:43+0000 [-] Timing out client: IPv4Address(TCP, '206.173.106.22', 29600)
+2018-06-17 14:47:41+0000 [-] Timing out client: IPv4Address(TCP, '71.56.223.66', 57825)
+2018-06-18 10:01:24+0000 [-] Timing out client: IPv4Address(TCP, '71.56.223.66', 50490)
+2018-06-19 00:19:34+0000 [-] Timing out client: IPv4Address(TCP, '77.246.203.182', 58303)
+2018-06-19 00:43:47+0000 [-] Timing out client: IPv4Address(TCP, '71.56.223.66', 53585)
+2018-06-19 01:07:34+0000 [-] Timing out client: IPv4Address(TCP, '77.246.203.182', 60672)
+2018-06-19 04:01:01+0000 [-] Timing out client: IPv4Address(TCP, '84.248.204.2', 55231)
+2018-06-19 04:01:01+0000 [-] Timing out client: IPv4Address(TCP, '84.248.204.2', 57139)
+2018-06-19 04:13:01+0000 [-] Timing out client: IPv4Address(TCP, '84.248.204.2', 52710)
+2018-06-19 08:50:16+0000 [-] Timing out client: IPv4Address(TCP, '107.2.150.106', 53977)
+2018-06-19 08:59:17+0000 [-] Timing out client: IPv4Address(TCP, '107.2.150.106', 57814)
+2018-06-19 09:05:17+0000 [-] Timing out client: IPv4Address(TCP, '107.2.150.106', 61218)
+2018-06-19 09:14:17+0000 [-] Timing out client: IPv4Address(TCP, '107.2.150.106', 63482)
+2018-06-19 09:14:17+0000 [-] Timing out client: IPv4Address(TCP, '107.2.150.106', 63483)
+2018-06-19 09:35:16+0000 [-] Timing out client: IPv4Address(TCP, '107.2.150.106', 52734)
+2018-06-19 12:03:40+0000 [-] Timing out client: IPv4Address(TCP, '107.2.150.106', 59533)
+2018-06-19 16:45:05+0000 [-] Timing out client: IPv4Address(TCP, '71.56.223.66', 61277)
+2018-06-19 21:10:15+0000 [-] Timing out client: IPv4Address(TCP, '176.72.7.228', 31953)
+2018-06-20 01:09:43+0000 [-] Timing out client: IPv4Address(TCP, '193.110.36.20', 41788)
+2018-06-20 23:40:26+0000 [-] Timing out client: IPv4Address(TCP, '176.72.71.250', 28040)
+2018-06-21 20:22:07+0000 [-] Timing out client: IPv4Address(TCP, '77.246.203.182', 52697)
+2018-06-21 21:04:40+0000 [-] Timing out client: IPv4Address(TCP, '77.246.203.182', 52696)
+2018-06-25 02:40:15+0000 [-] Timing out client: IPv4Address(TCP, '84.248.204.2', 59846)
+2018-06-25 05:23:10+0000 [-] Timing out client: IPv4Address(TCP, '84.248.204.2', 57632)
+2018-06-25 18:43:54+0000 [-] Timing out client: IPv4Address(TCP, '176.72.71.250', 27748)
+2018-06-26 21:18:51+0000 [-] Timing out client: IPv4Address(TCP, '77.246.203.182', 51538)
+2018-06-26 22:22:44+0000 [-] Timing out client: IPv4Address(TCP, '193.110.36.20', 10675)
+2018-06-26 23:28:53+0000 [-] Timing out client: IPv4Address(TCP, '193.110.36.20', 12733)
+2018-06-27 10:58:22+0000 [-] Received SIGINT, shutting down.
+2018-06-27 10:58:22+0000 [-] (TCP Port 4001 Closed)
+2018-06-27 10:58:22+0000 [-] (TCP Port 4005 Closed)
+2018-06-27 10:58:22+0000 [-] (TCP Port 4000 Closed)
+2018-06-27 10:58:22+0000 [-] Main loop terminated.
+2018-06-27 10:58:22+0000 [-] Server Shut Down.
